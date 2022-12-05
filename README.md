@@ -1,6 +1,9 @@
 ### Hi Guys Zeeshan Here 👋
 I am currently studying my BSCS Degree from Superior University. I love to learn new things and skills and I also believe in learning more about new things every day, it fascinate me to explore and develop myself.
 
+### Skills
+My skills are HTML, Css3, Bootstrap 5, JS, C++, Php, OOPLogics, Adobe Photoshop, Ms Office, Logical Skills and I am currently working on React & Laravel.
+
 <!--
 **NoorSir/NoorSir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
