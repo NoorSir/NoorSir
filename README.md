@@ -1,4 +1,5 @@
 ### Hi Guys Zeeshan Here 👋
+I am currently studying my BSCS Degree from Superior University. I love to learn new things and skills and I also believe in learning more about new things every day, it fascinate me to explore and develop myself.
 
 <!--
 **NoorSir/NoorSir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
